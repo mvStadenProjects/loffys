@@ -1,4 +1,3 @@
-
 import {
   Divider,
   Grid,
@@ -78,5 +77,5 @@ function ProductDetails() {
       </Grid>
     </Grid>
   );
-
+}
 export default ProductDetails;
